@@ -1,0 +1,17 @@
+
+.idea/
+Pipfile
+Pipfile.lock
+
+build/
+build/*
+dist/
+dist/*
+.idea/
+
+venv/
+*.pyc
+.DS_Store
+qymeta/__pycache__/
+*.gz
+
